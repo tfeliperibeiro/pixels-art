@@ -1,4 +1,4 @@
-<h1>Pixel Art</h1>
+<h1>Pixel Art 🧑‍🎨</h1>
 
 <h2>
 Project developed during the Trybe course, it was my first project using JavaScript.
